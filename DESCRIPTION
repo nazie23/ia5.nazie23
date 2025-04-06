@@ -3,7 +3,8 @@ Title: R Toy Package
 Version: 0.0.0.9000
 Authors@R: 
     person("Nazia", "Edroos", , "nedroos@student.ubc.ca", role = c("aut", "cre"))
-Description: Development of a small toy package
+Description: Convenience functions to make some common tasks with string
+    manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
